@@ -1,0 +1,23 @@
+body{
+<<<<<<< HEAD
+<<<<<<< HEAD
+    background-size: cover;
+    background-image: url(imagens/pag006.png);
+=======
+=======
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+    background-image: url(imagens/pag006.png);
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+}
+.Sair{
+    position: absolute;
+    top: 73%;
+    left: 12%;
+<<<<<<< HEAD
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+=======
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+}

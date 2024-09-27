@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+}
+
+body{
+    background-image: url(imagens/cadastro.png);
+    background-size: cover;
+}
+
+.img{
+    position: absolute;
+    top: 80%;
+    left: 38%;
+}
+

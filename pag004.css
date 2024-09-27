@@ -1,0 +1,47 @@
+body{
+<<<<<<< HEAD
+<<<<<<< HEAD
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(imagens/pag004.png);
+}
+
+
+.calen{
+    position: relative;
+    top: 775px;
+    left: 308px;
+}
+
+.ant{
+    position: relative;
+    top: 852px;
+    left: 1295px;
+=======
+=======
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+    background-color: white;
+    background-image: url(imagens/pag004.png);
+    background-size: cover;
+}
+
+.tt, a {
+    
+    position: absolute;
+    top:74% ;
+    left: 39.2%;
+    white-space: nowrap;
+    color: #000;
+    text-decoration: none;
+
+}
+
+.sair{
+    position: absolute;
+    top: 78% ;
+    left: 13%;
+<<<<<<< HEAD
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+=======
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+}

@@ -1,0 +1,44 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(imagens/pag003.png);
+}
+
+a{
+    text-decoration: none;
+}
+
+.confirmar{
+    position: relative;
+    top: 840px;
+    left: 590px;
+    font-size: 30px;
+=======
+=======
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-color: white;
+    background-image: url(imagens/pag003.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.im{
+    position: absolute;
+    top: -15%;
+    left: 75%;
+<<<<<<< HEAD
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+=======
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+}

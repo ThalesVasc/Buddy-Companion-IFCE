@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+body{
+    background-repeat: no-repeat;
+    background-image: url(imagens/pag002.png);
+    background-size: cover;
+}
+.cadastro{
+    position: relative;
+    top: 450px;
+    left: 650px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 50px;
+=======
+=======
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+body,html{
+    background-color: white;
+    background-image: url(imagens/pag002.png);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+img{
+    position: absolute;
+    top: 48%;
+    left: 33%;
+    
+<<<<<<< HEAD
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+=======
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+}

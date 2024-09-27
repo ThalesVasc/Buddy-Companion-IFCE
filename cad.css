@@ -1,0 +1,93 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+body{
+    background-image: url(imagens/cadedit2.png);
+    background-size: cover;
+    
+}
+
+.return{
+    text-decoration: none;
+    position: absolute;
+    top: 10%;
+    left: 76%;
+=======
+=======
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+
+/* media 400px*/
+@media only screen and (max-width : 400px){
+    .arquivos{
+        background: #0496FF;
+    }
+}
+
+/* media 600px*/
+@media only screen and (max-width : 600px){
+    .arquivos{
+        background: #3E6680;
+    }
+}
+
+/*media 850px */
+@media only screen and (max-width : 850px){
+    .arquivos{
+        background: #027BCE;
+    }
+}
+
+
+
+body{
+    background-image: url(imagens/cadast.png);
+    background-size: cover;
+    
+}
+/* Div "return"*/
+div a{
+    position: relative;
+    text-decoration: none;
+    padding: 11px;
+    margin: 11px;
+    background: #0496FF;
+    left: 10%;
+    top: 120px;
+}
+
+.arquivos{
+    width: 160px;
+    position: relative;
+    margin: 8px;
+    padding: 8px;
+    background: #00487C;
+    left: 70%;
+    top: 30%;
+}
+
+.tabela{
+    width: 80%;
+    position: relative;
+    left: 6%;
+    top: 180px;
+}
+
+.bote{
+    position: relative;
+    left:20% ;
+}
+
+.bote2{
+    position: relative;
+    left: 40%;
+    top: -37px;
+}
+
+.bote3{
+    position: relative;
+    left: 74%;
+    top: -75px;
+<<<<<<< HEAD
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+=======
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+}

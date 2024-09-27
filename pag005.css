@@ -1,0 +1,31 @@
+body{
+<<<<<<< HEAD
+<<<<<<< HEAD
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(imagens/pag005.png);
+=======
+=======
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+    background-image: url(imagens/pag005.png);
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+}
+.txt{
+    position: absolute;
+    top: 42%;
+    left: 40%;
+    color: #000;
+
+}
+.txt2{
+    position: absolute;
+    top: 56%;
+    left: 40%;
+<<<<<<< HEAD
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+=======
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+}

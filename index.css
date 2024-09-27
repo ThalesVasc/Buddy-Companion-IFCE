@@ -1,0 +1,70 @@
+body{
+<<<<<<< HEAD
+<<<<<<< HEAD
+    background-size: cover;
+    background-image: url(imagens/index.jpg);
+    background-repeat: no-repeat;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+}
+
+.barra{
+    position: relative;
+    top: 900px;
+    left: 915px;
+}
+
+.barra2{
+    position: relative;
+    top: 950px;
+    left: 915px;
+}
+
+
+.entrar{
+    position: relative;
+    top: 875px;
+    left: 930px;
+}
+
+.cadastro{
+    position: relative;
+    top: 920px;
+    left: 915px;
+}
+=======
+=======
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+    background-color: white;
+    background-image: url(imagens/principal1.png);
+    background-size: cover;
+    margin: o;
+    padding: 0;
+}
+
+.Entrar {
+    position: absolute; 
+    transform: translate(-50%, -50%); 
+    color: white; 
+    font-size: 24px; 
+    text-decoration: none; 
+    top: 81%; 
+    left: 50%;
+}
+
+.cad{
+    position: absolute;
+    top: 86%;
+    left: 47%;
+}
+a{
+    text-decoration: none;
+}
+
+<<<<<<< HEAD
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
+=======
+>>>>>>> 2c070b6c93c4bd8c2f111756ffd619604a9fb9a9
